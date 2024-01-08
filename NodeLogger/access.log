@@ -1,0 +1,80 @@
+GET 304 - 4.698 ms Thu, 09 Mar 2023 15:46:54 GMT 1.1 /get-users 
+
+GET 304 - 1.446 ms Thu, 09 Mar 2023 15:46:54 GMT 1.1 /get-users 
+
+GET 304 - 0.466 ms Thu, 09 Mar 2023 15:46:54 GMT 1.1 /get-users 
+
+GET 304 - 5.153 ms Thu, 09 Mar 2023 15:47:30 GMT 1.1 /get-users 
+
+GET 304 - 1.250 ms Thu, 09 Mar 2023 15:47:30 GMT 1.1 /get-users 
+
+GET 304 - 1.253 ms Thu, 09 Mar 2023 15:47:31 GMT 1.1 /get-users 
+
+GET 304 - 0.615 ms Thu, 09 Mar 2023 15:47:31 GMT 1.1 /get-users 
+
+GET 304 - 0.731 ms Thu, 09 Mar 2023 15:47:34 GMT 1.1 /get-users 
+
+GET 304 - 0.392 ms Thu, 09 Mar 2023 15:47:34 GMT 1.1 /get-users 
+
+GET 200 31 4.196 ms Sat, 06 Jan 2024 11:57:57 GMT 1.1 /
+
+GET 200  3.995 ms Sat, 06 Jan 2024 11:59:41 GMT 1.1 /
+
+GET 200  0.968 ms Sat, 06 Jan 2024 12:00:21 GMT 1.1 /get-users
+
+GET 20043 4.069 ms Sat, 06 Jan 2024 12:00:52 GMT 1.1 /get-users
+
+GET 200 43 5.389 ms Sat, 06 Jan 2024 12:01:18 GMT 1.1 /get-users
+
+GET 200 43 4.326 ms Sat, 06 Jan 2024 12:01:54 GMT 1.1 /get-users
+
+GET 200 31 4.966 ms Mon, 08 Jan 2024 11:03:40 GMT 1.1 /
+
+POST 201 37 0.952 ms Mon, 08 Jan 2024 11:05:00 GMT 1.1 /add-user
+
+GET 200 31 7.276 ms Mon, 08 Jan 2024 11:05:28 GMT 1.1 /
+
+GET 200 43 0.884 ms Mon, 08 Jan 2024 11:05:28 GMT 1.1 /get-users
+
+POST 201 37 0.812 ms Mon, 08 Jan 2024 11:05:28 GMT 1.1 /add-user
+
+DELETE 200 43 1.361 ms Mon, 08 Jan 2024 11:05:29 GMT 1.1 /user/123
+
+PUT 201 43 1.535 ms Mon, 08 Jan 2024 11:05:29 GMT 1.1 /user/142
+
+GET 200 31 8.829 ms Mon, 08 Jan 2024 12:26:55 GMT 1.1 /
+
+GET 200 43 0.966 ms Mon, 08 Jan 2024 12:26:55 GMT 1.1 /get-users
+
+POST 201 37 0.614 ms Mon, 08 Jan 2024 12:26:55 GMT 1.1 /add-user
+
+DELETE 200 43 1.722 ms Mon, 08 Jan 2024 12:26:55 GMT 1.1 /user/123
+
+PUT 201 43 0.854 ms Mon, 08 Jan 2024 12:26:55 GMT 1.1 /user/142
+
+- 200 31 4.758 ms Mon, 08 Jan 2024 12:28:50 GMT 1.1 /
+
+- 200 43 0.884 ms Mon, 08 Jan 2024 12:28:50 GMT 1.1 /get-users
+
+- 201 37 1.008 ms Mon, 08 Jan 2024 12:28:50 GMT 1.1 /add-user
+
+- 200 43 1.159 ms Mon, 08 Jan 2024 12:28:50 GMT 1.1 /user/123
+
+- 201 43 0.689 ms Mon, 08 Jan 2024 12:28:50 GMT 1.1 /user/142
+
+:${method}200 31 4.089 ms Mon, 08 Jan 2024 12:33:06 GMT 1.1 /
+
+:${method}200 43 0.908 ms Mon, 08 Jan 2024 12:33:06 GMT 1.1 /get-users
+
+:${method}201 37 0.600 ms Mon, 08 Jan 2024 12:33:06 GMT 1.1 /add-user
+
+:${method}200 43 1.170 ms Mon, 08 Jan 2024 12:33:06 GMT 1.1 /user/123
+
+:${method}201 43 0.650 ms Mon, 08 Jan 2024 12:33:06 GMT 1.1 /user/142
+
+POST404 140 9.560 ms Mon, 08 Jan 2024 12:58:26 GMT 1.1 /
+
+GET200 31 8.329 ms Mon, 08 Jan 2024 12:58:40 GMT 1.1 /
+
+GET 200 31 4.179 ms Mon, 08 Jan 2024 12:59:58 GMT 1.1 /
+
